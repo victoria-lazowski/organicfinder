@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Roboto:ital,wght@0,100;0,400;1,700&family=Russo+One&display=swap")
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	text-align: center;
+	font-family: 'Lora', serif;
+	font-size: 18px;
+	margin:  0px;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+	font-size: 32px;
+
+}
+
+
+h2 {
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+
+}
+
+h3 {
+	text-align: center;
+	font-family: 'Russo One', sans-serif;
+	font-size: 25px;
+	font-weight: 300;
+}
+a {
+	text-decoration: none;
+}
